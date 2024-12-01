@@ -6,7 +6,7 @@ Ustedes son Project Managers en una empresa internacional. Reciben una llamada u
 
 Objetivo: Debido a la urgencia de la situación, necesitan optimizar las tareas para cumplir con el objetivo de que el ejecutivo llegue a la reunión a tiempo. A continuación se detalla la lista de tareas necesarias, sus descripciones y las duraciones de cada una. Su misión es identificar las dependencias entre las tareas, calcular el tiempo total para completar las tareas en el orden adecuado, y determinar si es posible cumplir con el plazo de 100 minutos.
 
-# Tareas, Descripciones y Duraciones:
+## Tareas, Descripciones y Duraciones:
 
 A: Reserva de vuelo (20 min)
 B: Informar a casa para empacar (5 min)
@@ -22,12 +22,12 @@ K: Reunir documentos (15 min)
 L: Organizar documentos (5 min)
 M: Viajar al aeropuerto y facturar (25 min)
 
-# Dependencias entre tareas:
+## Dependencias entre tareas:
 
 Algunas tareas deben ser realizadas antes que otras, por ejemplo, no se puede viajar al aeropuerto antes de haber recogido las maletas.
 Además, la reserva del vuelo debe completarse antes de recoger el billete, y la preparación del billete debe ocurrir antes de llevar el billete a la oficina.
 
-# Objetivos del Reto:
+## Objetivos del Reto:
 
 Definir el Objetivo del Proyecto: Identificar el propósito principal del proyecto (optimizar la gestión del tiempo para cumplir con el plazo de 100 minutos) y no solo las tareas.
 
@@ -40,7 +40,7 @@ Determinar el tiempo total necesario para completar todas las tareas.
 Evaluar si es posible completar las tareas en 100 minutos o menos.
 Imprimir el orden óptimo de ejecución de las tareas y su tiempo total.
 
-# Restricciones:
+## Restricciones:
 
 El tiempo máximo permitido para completar las tareas es de 100 minutos.
 El algoritmo debe gestionar de forma eficiente las dependencias entre las tareas, de tal manera que optimice el tiempo de ejecución.
