@@ -32,6 +32,7 @@ Además, la reserva del vuelo debe completarse antes de recoger el billete, y la
 Definir el Objetivo del Proyecto: Identificar el propósito principal del proyecto (optimizar la gestión del tiempo para cumplir con el plazo de 100 minutos) y no solo las tareas.
 
 Diagrama de Flujo del Cronograma: Crear un diagrama de flujo para visualizar el cronograma del proyecto, teniendo en cuenta solo las dependencias entre tareas y no restricciones de recursos.
+![Diagrama](https://github.com/user-attachments/assets/a069aa04-f629-4fde-ab25-43f8f5fa9020)
 
 Desarrollo de Algoritmo en C++:
 
