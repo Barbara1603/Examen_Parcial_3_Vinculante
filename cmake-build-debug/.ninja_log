@@ -1,0 +1,8 @@
+# ninja log v6
+2	916	7547228998367059	build.ninja	8af6e4670f89d4e4
+5	1671	7547228179783305	CMakeFiles/Examen_Parcial_3_Vinculante.dir/main.cpp.obj	e08ba9dca0627443
+153	2391	7547228181270717	CMakeFiles/Examen_Parcial_3_Vinculante.dir/Actor/Actor.cpp.obj	d1a30a5e5591aee7
+491	4204	7547228184644796	CMakeFiles/Examen_Parcial_3_Vinculante.dir/Launcher/Launcher.cpp.obj	e0a887eb75003398
+335	2718	7547228183099498	CMakeFiles/Examen_Parcial_3_Vinculante.dir/Crud/crud.cpp.obj	85cae3064d16a478
+633	4312	7547228186069351	CMakeFiles/Examen_Parcial_3_Vinculante.dir/Tarea/Tarea.cpp.obj	7b085d13f61662c6
+4313	5972	7547228222869182	Examen_Parcial_3_Vinculante.exe	64792494b2bb2bed
