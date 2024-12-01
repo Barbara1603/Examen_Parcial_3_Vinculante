@@ -34,7 +34,7 @@ Definir el Objetivo del Proyecto: Identificar el propósito principal del proyec
 Diagrama de Flujo del Cronograma: Crear un diagrama de flujo para visualizar el cronograma del proyecto, teniendo en cuenta solo las dependencias entre tareas y no restricciones de recursos.
 ![Diagrama](https://github.com/user-attachments/assets/a069aa04-f629-4fde-ab25-43f8f5fa9020)
 
-3. Desarrollo de Algoritmo en C++:
+### 3. Desarrollo de Algoritmo en C++:
 
 - Crear un programa en C++ que permita calcular el orden de ejecución de las tareas en función de sus dependencias.
 - Determinar el tiempo total necesario para completar todas las tareas.
