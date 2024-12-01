@@ -1,4 +1,4 @@
-[link del repositorio]https://github.com/Barbara1603/Examen_Parcial_3_Vinculante.git
+[Link del repositorio](https://github.com/Barbara1603/Examen_Parcial_3_Vinculante.git)
 
 # Enunciado del Problema:
 
