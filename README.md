@@ -43,5 +43,5 @@ Imprimir el orden óptimo de ejecución de las tareas y su tiempo total.
 
 ## Restricciones:
 
-El tiempo máximo permitido para completar las tareas es de 100 minutos.
-El algoritmo debe gestionar de forma eficiente las dependencias entre las tareas, de tal manera que optimice el tiempo de ejecución.
+- El tiempo máximo permitido para completar las tareas es de 100 minutos.
+- El algoritmo debe gestionar de forma eficiente las dependencias entre las tareas, de tal manera que optimice el tiempo de ejecución.
