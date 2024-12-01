@@ -8,9 +8,9 @@ Objetivo: Debido a la urgencia de la situación, necesitan optimizar las tareas 
 
 ## Tareas, Descripciones y Duraciones:
 
-A: Reserva de vuelo (20 min)
-B: Informar a casa para empacar (5 min)
-C: Empacar maletas (40 min)
+#### A: Reserva de vuelo (20 min)
+#### B: Informar a casa para empacar (5 min)
+#### C: Empacar maletas (40 min)
 D: Preparación del billete por la agencia (10 min)
 E: Recoger el billete de la agencia (5 min)
 F: Llevar el billete a la oficina (10 min)
@@ -24,14 +24,17 @@ M: Viajar al aeropuerto y facturar (25 min)
 
 ## Dependencias entre tareas:
 
-Algunas tareas deben ser realizadas antes que otras, por ejemplo, no se puede viajar al aeropuerto antes de haber recogido las maletas.
-Además, la reserva del vuelo debe completarse antes de recoger el billete, y la preparación del billete debe ocurrir antes de llevar el billete a la oficina.
+- Algunas tareas deben ser realizadas antes que otras, por ejemplo, no se puede viajar al aeropuerto antes de haber recogido las maletas.
+- Además, la reserva del vuelo debe completarse antes de recoger el billete, y la preparación del billete debe ocurrir antes de llevar el billete a la oficina.
 
 ## Objetivos del Reto:
 
-Definir el Objetivo del Proyecto: Identificar el propósito principal del proyecto (optimizar la gestión del tiempo para cumplir con el plazo de 100 minutos) y no solo las tareas.
+### 1. Definir el Objetivo del Proyecto: 
+Identificar el propósito principal del proyecto (optimizar la gestión del tiempo para cumplir con el plazo de 100 minutos) y no solo las tareas.
 
-Diagrama de Flujo del Cronograma: Crear un diagrama de flujo para visualizar el cronograma del proyecto, teniendo en cuenta solo las dependencias entre tareas y no restricciones de recursos.
+### 2. Diagrama de Flujo del Cronograma: 
+Crear un diagrama de flujo para visualizar el cronograma del proyecto, teniendo en cuenta solo las dependencias entre tareas y no restricciones de recursos.
+
 ![Diagrama](https://github.com/user-attachments/assets/a069aa04-f629-4fde-ab25-43f8f5fa9020)
 
 ### 3. Desarrollo de Algoritmo en C++:
